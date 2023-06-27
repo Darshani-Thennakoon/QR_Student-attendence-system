@@ -21,12 +21,14 @@
         </ul>
         <h3>Features</h3>
         <ul>
+            <li>Google Sign Up</li>
             <li>Google Sign In</li>
             <li>Catogory Selection</li>
-            <li>Search For an Item</li>
-            <li>Table Data Collection</li>
+            <li>Scan QR code </li>
+            <li>Search For attendance </li>
+            <li>View Student Details and attendance Details</li>
             <li>Admin and User Access</li>
-            <li>Add item , Delete Item or UpdateItem features</li>
+            <li>Add Student, Delete and Edit features</li>
         </ul>
         <img src = "screenshots/Screenshot (75).png">
         <hr>
