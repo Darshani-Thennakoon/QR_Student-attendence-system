@@ -9,20 +9,11 @@
             <li> QR Student Attendence System for a School or Tution class. </li>
             <li>version 1.0</li>
         </ul><br>
-        <h3>How do I get set up?</h3>
-        <ul>
-            <li>Clone or Download the repository</li>
-            <li>open the project</li>
-            <li>Open the .env file and include your DB_USERNAME and DB_PASSWORD</li>
-            <li>Copy the DB_DATABASE and make a new database in phpmyadmin with same name</li>
-            <li>start the server</li>
-            <li>migrate files using php artisan migrate</li>
-            <li>run the project on your browser</li>
-        </ul>
+       
         <h3>Features</h3>
         <ul>
-            <li>Google Sign Up</li>
-            <li>Google Sign In</li>
+            <li>User Sign Up</li>
+            <li>User Sign In</li>
             <li>Catogory Selection</li>
             <li>Scan QR code </li>
             <li>Search For attendance </li>
@@ -31,6 +22,14 @@
             <li>Add Student, Delete and Edit features</li>
         </ul>
         <img src = "screenshots/1.jpg">
+          <img src = "screenshots/2.jpg">
+          <img src = "screenshots/3.jpg">
+          <img src = "screenshots/4.jpg">
+          <img src = "screenshots/5.jpg">
+          <img src = "screenshots/6.jpg">
+          <img src = "screenshots/7.jpg">
+          <img src = "screenshots/8.jpg">
+          <img src = "screenshots/9.jpg">
         <hr>
         
         
