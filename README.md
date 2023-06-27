@@ -9,7 +9,6 @@
             <li> QR Student Attendence System for a School or Tution class. </li>
             <li>version 1.0</li>
         </ul><br>
-       
         <h3>Features</h3>
         <ul>
             <li>User Sign Up</li>
@@ -30,9 +29,7 @@
           <img src = "screenshots/7.jpg">
           <img src = "screenshots/8.jpg">
           <img src = "screenshots/9.jpg">
-        <hr>
-        
-        
+        <hr>   
   <br><br>
         <h3>contact details</h3>
         <ul>
