@@ -30,15 +30,9 @@
             <li>Admin and User Access</li>
             <li>Add Student, Delete and Edit features</li>
         </ul>
-        <img src = "screenshots/Screenshot (75).png">
+        <img src = "screenshots/1.jpg">
         <hr>
-        <img src = "screenshots/Screenshot (76).png">
-        <hr>
-        <img src = "screenshots/Screenshot (77).png">
-        <hr>
-        <img src = "screenshots/Screenshot (78).png">
-        <hr>
-        <img src = "screenshots/Screenshot (79).png">
+        
         
   <br><br>
         <h3>contact details</h3>
